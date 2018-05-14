@@ -267,13 +267,9 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ObjectiveStatusTimePanel"
 		"xpos"				"c-50"
-		"xpos_hidef"		"c-150"
-		"xpos_lodef"		"c-150"
 		"ypos"				"-21"
 		"zpos"				"1"
 		"wide"				"100"
-		"wide_hidef"		"300"
-		"wide_lodef"		"300"
 		"tall"				"150"
 		"visible"			"1"
 		"enabled"			"1"
@@ -287,6 +283,7 @@
 		
 		if_match
 		{
+			"ypos"				"-20"
 			"zpos"				"5"
 		}
 		
@@ -303,12 +300,11 @@
 			"tall"			"31"
 			"visible"		"1"
 			"enabled"		"1"
-			"textAlignment"		"center"
+			"textAlignment"	"center"
 			
 			if_match
 			{
-				"font"			"m0refont11"
-				"ypos"			"23"
+				"font"		"m0refont15"
 			}
 		}
 	}

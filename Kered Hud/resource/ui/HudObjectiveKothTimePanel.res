@@ -29,7 +29,8 @@
 		
 		if_match
 		{
-			"xpos"				"38"
+			"xpos"				"34"
+			"ypos"				"-20"
 		}
 		
 		"TimePanelValue"
@@ -45,12 +46,11 @@
 			"tall"			"31"
 			"visible"		"1"
 			"enabled"		"1"
-			"textAlignment"		"center"
+			"textAlignment"	"center"
 			
 			if_match
 			{
-				"font"			"m0refont11"
-				"ypos"			"23"
+				"font"		"m0refont13"
 			}
 		}
 	}
@@ -76,7 +76,8 @@
 		
 		if_match
 		{
-			"xpos"				"63"
+			"xpos"				"66"
+			"ypos"				"-20"
 		}
 		
 		"TimePanelValue"
@@ -92,12 +93,11 @@
 			"tall"			"31"
 			"visible"		"1"
 			"enabled"		"1"
-			"textAlignment"		"center"
+			"textAlignment"	"center"
 			
 			if_match
 			{
-				"font"			"m0refont11"
-				"ypos"			"23"
+				"font"		"m0refont13"
 			}
 		}
 	}
