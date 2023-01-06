@@ -482,7 +482,7 @@
 		
 		if_mvm
 		{
-			"ypos"		"368"
+			"ypos"		"400"
 		}
 	}
 	"ClassImage"
@@ -601,10 +601,7 @@
 		
 		if_mvm
 		{
-			"xpos_minmode"	"454"
-			"ypos"			"300"
-			"ypos_minmode"	"300"
-			"wide_minmode"	"89"
+			"visible"	"0"
 		}
 	}
 	
@@ -835,7 +832,7 @@
 		
 		if_mvm
 		{
-			"ypos"		"368"
+			"ypos"		"400"
 		}
 		
 		"KillsLabel"
@@ -1654,7 +1651,7 @@
 		"ControlName"		"CTFHudMannVsMachineScoreboard"
 		"fieldName"			"MvMScoreboard"
 		"xpos"				"0"
-		"ypos"				"3"
+		"ypos"				"10"
 		"zpos"				"10"
 		"wide"				"f0"
 		"tall"				"480"
